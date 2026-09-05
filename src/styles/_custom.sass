@@ -1,23 +1,20 @@
 @use 'variables' as *
 .banner-principal-decorativo
   &-1
+    animation: float1 3.5s ease-in-out infinite alternate
+    position: absolute
+    top: 12%
+    left: -10%
+    max-width: 100px
+  &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 68%
-    left: -10%
-    width: 20%
-  &-2
-    animation: float1 2.5s ease-in-out infinite alternate
-    position: absolute
-    top: 30%
-    right: 10%
-    width: 20%
-
-
+    top: 40%
+    right: -10%
+    max-width: 100px
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
 
@@ -25,34 +22,101 @@
   flex: 0 0 auto !important
   width: 58.33333333% !important
 .banner-principal__img 
-  padding-bottom: 0 !important;
+  padding-bottom: 0 !important
 .banner-principal__row .banner-principal__img 
-    width: 33%;
-    
-.banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
-  color: $color-sistema-texto !important  
+  width: 33%
+  max-width: 300px   
 
-.boton *, .boton--sm *,
-.barra-avance__boton--regresar span
-  color: $white !important
-.banner-interno__titulo h1, .banner-interno__titulo h2, 
-.banner-interno__titulo h3, .banner-interno__titulo h4, 
-.banner-interno__titulo h5, .banner-interno__titulo h6
-  color: $color-sistema-texto !important  
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: $white !important
+
 figcaption 
-    font-weight: normal !important
-
-.banner-interno__titulo__icono i
-    color: $color-acento-botones !important;
+  font-weight: normal !important
+.banner-interno__titulo__icono 
+  background-color: $color-sistema-texto
+  i
+    color: $white
 
 
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
+.titulo-principal__numero
+  i, span
+    color: $color-sistema-texto !important
+.fa-lista
+  li
+    display: flex !important
+    align-items: flex-start
+  li:before
+    position: relative
+    margin-right: 7px
+    font-size: 1.4rem 
+.banner-interno .banner-interno__fondo
+  background-image:  url('../assets/curso/temas/bg/mini-portada.png') !important
+  background-position: top left
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario     
+.lista-ul--color.color-acento-botones li > i:first-of-type  
+  color: $color-acento-botones    
+.lista-ul--color.color-adicional-1 li > i:first-of-type  
+  color: $color-adicional-1  
+.lista-ul--color.color-adicional-2 li > i:first-of-type  
+  color: $color-adicional-2  
+.lista-ol--cuadro.color-primario .lista-ol--cuadro__vineta
+  background-color: $color-primario
+.bg-color-acento-botones
+  background-color: $color-acento-botones
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+.bg-color-primario
+  background-color: $color-primario
+.bg-color-secundario
+  background-color: $color-secundario
+.bg-color-sistema-texto
+  background-color: $color-sistema-texto
+.text-color-sistema
+  color: $color-sistema-texto !important
+.bg-color-adicional-1
+  background-color: $color-adicional-1
+.ct-color-primario
+  color: $color-primario
+.ct-color-acento-botones
+  color: $color-acento-botones
+.ct-secundario 
+  color: $color-secundario !important
+.ct-acento-contenido 
+  color: $color-acento-contenido !important
+.w-fit
+  width: fit-content
+.columns-2
+  columns: 2
+.font-italic
+  font-style: italic !important
+.sin-borde
+  border: 0px !important
+.br-top
+  border-top-left-radius: 20px 
+  border-top-right-radius: 20px 
+.br-left
+  border-top-left-radius: 20px 
+  border-bottom-left-radius: 20px 
+.br-right
+  border-top-right-radius: 20px 
+  border-bottom-right-radius: 20px 
+.tabs-a__tab__text 
+  white-space: normal
+.l-circle i.fa-circle
+  font-size: 8px
+  top: 7px !important
+.list-ico 
+  img 
+    width: 15px
+    min-width: 15px
+    margin-right: 8px
+
 .p-full-width
-  padding: 3rem 3.5rem!important;
+  padding: 3rem 3.5rem!important
 .bg-full-width
   background-size: cover
   background-repeat: no-repeat
@@ -60,14 +124,71 @@ figcaption
   margin-inline: -3.3rem
 .bg-fondo
   &-1
-    //background-image: url(../assets/curso/bg/3.svg)
+    background-image: url(../assets/curso/bg/bg-slider.png)
 .bg-color
   &-1
-    background-color: $color-primario
+    background-color: #C1C5CB
+  &-2
+    background-color: #FCE2B5
+  &-3
+    background-color: #104936
+  &-4
+    background-color:  #BBC3DC
+.bgimg-1
+  background: url('../assets/curso/temas/bg/slider.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  border-radius: 20px
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover
 
-
-
-
+.w-85x
+  width: 85px
+.btgbr-top  
+  border-top-right-radius: 50px
+.tabla-a.color-secundario
+  thead tr
+    background-color: $color-secundario !important
+    color: $white
+    th  
+      text-align: start
+  tr:nth-child(2n+1)
+    background-color: #F6F6F6
+.tabla-a.color-acento-contenido
+  thead tr
+    background-color: $color-secundario !important
+    color: $white
+    th  
+      text-align: start
+  tbody.fc
+    tr td:first-child
+      font-weight: bold
+  tbody.sc
+    tr td:nth-child(2)
+      font-weight: bold
+.acordion
+  &__titulo h3
+    color: $white
+  &__activo
+    background-color: #C0F1E1
+    .acordion__titulo h3
+      color: $color-sistema-texto
+  &__accion__btn--b
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: $color-acento-botones
+  border-color: $color-acento-botones
+  opacity: 0.9
+.no-pointer .tarjeta--boton
+  cursor: initial !important
+  &.bg-color-2:hover
+    background-color: #C0F1E1
 
 
 
