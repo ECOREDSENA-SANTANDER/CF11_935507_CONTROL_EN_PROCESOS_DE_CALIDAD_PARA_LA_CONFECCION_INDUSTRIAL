@@ -17,7 +17,7 @@
       .col-lg-12
         .titulo-sexto.color-secundario.mb-3
           h5 Figura 1. 
-          span Proceso de reciclaje textil
+          span Moda sostenible 
         figure
           img(src='@/assets/curso/temas/t1/fig1.svg', alt='Prácticas de moda sostenible en la industria de la confección, que incluye escenas de reciclaje textil, reparación de prendas, empaques ecoamigables, compras éticas e intercambio comunitario de ropa.')
 

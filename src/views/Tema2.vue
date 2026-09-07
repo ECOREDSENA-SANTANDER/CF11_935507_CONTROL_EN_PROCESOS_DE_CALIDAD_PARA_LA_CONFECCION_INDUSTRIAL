@@ -50,7 +50,7 @@
     .mb-5(data-aos='fade-down')
       .titulo-sexto.color-secundario.mb-3
         h5 Tabla 5.
-        span Cláusulas de ISO 14001:2015 y aplicación técnica en la planta de confección
+        span Clausulas y aplicación técnica
       .tabla-a.color-secundario
         table
           thead
@@ -85,6 +85,7 @@
         img(src='@/assets/curso/temas/t2/4.svg', alt='')
       .col-lg-11.col-md-10(data-aos="fade-left")
         p.mb-0 En materia de normas técnicas sectoriales, ICONTEC ha elaborado normas técnicas colombianas (NTC) aplicables a productos del sector confección que inciden sobre los procesos ambientalmente relevantes. Entre ellas se destacan las relativas a solidez del color (NTC 1500, NTC 1619), resistencia de costuras y especificaciones de etiquetado de fibras, las cuales se articulan con los requisitos ambientales cuando involucran procesos de tinción, blanqueo o acabados con sustancias químicas reguladas.
+
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')

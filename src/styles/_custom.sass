@@ -124,7 +124,9 @@ figcaption
   margin-inline: -3.3rem
 .bg-fondo
   &-1
-    background-image: url(../assets/curso/bg/bg-slider.png)
+    background-image: url(../assets/curso/temas/bg/bg-slider.png)
+    background-size: 100% 100%
+    background-repeat: no-repeat
 .bg-color
   &-1
     background-color: #C1C5CB
@@ -133,7 +135,9 @@ figcaption
   &-3
     background-color: #104936
   &-4
-    background-color:  #BBC3DC
+    background-color: #BBC3DC
+  &-5
+    background-color: #C0F1E1
 .bgimg-1
   background: url('../assets/curso/temas/bg/slider.png')
   background-size: 100% 100%
@@ -151,6 +155,8 @@ figcaption
   width: 85px
 .btgbr-top  
   border-top-right-radius: 50px
+.btgbl-top  
+  border-top-left-radius: 50px
 .tabla-a.color-secundario
   thead tr
     background-color: $color-secundario !important
@@ -159,6 +165,12 @@ figcaption
       text-align: start
   tr:nth-child(2n+1)
     background-color: #F6F6F6
+  tbody.fc
+    tr td:first-child
+      font-weight: bold
+  tbody.sc
+    tr td:nth-child(2)
+      font-weight: bold
 .tabla-a.color-acento-contenido
   thead tr
     background-color: $color-secundario !important
@@ -189,7 +201,42 @@ figcaption
   cursor: initial !important
   &.bg-color-2:hover
     background-color: #C0F1E1
+.slyder-e
+  .slyder__btn
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+.slyder-f__btn i
+  color: $color-acento-botones
+.tarjeta-audio.color-acento-botones
+  border-color: $color-acento-contenido
+  .tarjeta-audio__texto
+    color: $color-sistema-texto
+    font-style: inherit !important
+  .tarjeta-audio__input input[type=range]
+    background: #1E3A8A
 
+.subt
+  display: flex
+  align-items: center
+  gap: 1rem
+  position: relative
+  width: fit-content
+  img
+    width: 50px
+    z-index: 1
+  h3
+    z-index: 2
+    padding-right: 2.5rem
+  &::before
+    content: ''
+    position: absolute
+    top: 50%
+    transform: translateY(-50%)
+    right: 0px
+    width: 100%
+    height: 95%
+    border-radius: 500px
+    background-color: $color-acento-contenido
 
 
 /**************************************************************/

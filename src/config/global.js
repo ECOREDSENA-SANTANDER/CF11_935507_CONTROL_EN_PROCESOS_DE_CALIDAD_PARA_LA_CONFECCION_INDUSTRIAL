@@ -129,7 +129,7 @@ export default {
           {
             numero: '5.2',
             titulo:
-              'Certificaciones de sostenibilidad Fair Trade y carbón neutral',
+              'Certificaciones de sostenibilidad <em>Fair Trade</em> y carbón neutral',
             hash: 't_5_2',
           },
         ],
@@ -202,12 +202,12 @@ export default {
         'modelo productivo que busca mantener los productos y materiales en uso durante el mayor tiempo posible, mediante su reutilización, recuperación, reparación y reincorporación al ciclo productivo.',
     },
     {
-      termino: 'GOTS (Global Organic Textile Standard)',
+      termino: 'GOTS (<em>Global Organic Textile Standard</em>)',
       significado:
         'estándar internacional que certifica productos textiles elaborados con fibras orgánicas y establece criterios ambientales y sociales para la cadena de suministro.',
     },
     {
-      termino: 'Greenwashing',
+      termino: '<em>Greenwashing</em>',
       significado:
         'práctica mediante la cual una organización presenta afirmaciones ambientales engañosas o no sustentadas con evidencia suficiente para proyectar una imagen de mayor responsabilidad ambiental.',
     },

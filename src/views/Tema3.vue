@@ -141,11 +141,11 @@
               th.w-25 Nivel de jerarquía (prioridad)
               th Acción técnica
               th Ejemplo en confección industrial
-          tbody
+          tbody.fc
             tr
               td 1. Reducción en la fuente
               td Prevenir la generación de residuos desde el diseño del proceso o del producto.
-              td Uso de software de patronaje y trazado con optimización de la superficie de corte para reducir la merma de tela.
+              td Uso de #[em software] de patronaje y trazado con optimización de la superficie de corte para reducir la merma de tela.
             tr
               td 2. Reutilización
               td Emplear nuevamente el residuo o subproducto, en el mismo proceso o en uno diferente, sin someterlo a una transformación significativa.
