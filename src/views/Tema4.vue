@@ -178,7 +178,7 @@
               img(src='@/assets/curso/temas/t4/tarj1-3.svg', alt='')
           p.mb-0 La optimización de los procesos logísticos para disminuir el transporte de materiales.
 
-    p Explore el pódcast "Dato sobre la elaboración de un pantalón de denim" y descubra datos interesantes sobre las etapas, materiales y procesos que intervienen en la confección de esta prenda.
+    p Explore el pódcast "Dato sobre la elaboración de un pantalón de #[em denim]" y descubra datos interesantes sobre las etapas, materiales y procesos que intervienen en la confección de esta prenda.
 
     .bg-color-3(data-aos='fade')
       img(src='@/assets/curso/temas/t4/podcast.svg', alt='')

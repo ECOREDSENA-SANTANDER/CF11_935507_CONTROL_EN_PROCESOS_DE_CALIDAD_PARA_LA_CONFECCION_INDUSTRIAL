@@ -260,11 +260,9 @@ export default {
     },
     {
       referencia: 'Better Trail. (2025a). Bluesign explicado.',
-      link: '',
     },
     {
-      referencia: 'Better Trail. (2025b). ¿Qué tan sostenible es Patagonia?.',
-      link: '',
+      referencia: 'Better Trail. (2025b). ¿Qué tan sostenible es Patagonia?',
     },
     {
       referencia:
@@ -416,12 +414,10 @@ export default {
     {
       referencia:
         'Selfless Clothes. (s. f.-a). Pact: Informe de marca, sostenibilidad y ética.',
-      link: '',
     },
     {
       referencia:
         'Selfless Clothes. (s. f.-b). Patagonia: Informe de marca, sostenibilidad y ética.',
-      link: '',
     },
     {
       referencia:
