@@ -33,7 +33,7 @@
       )
       .bloque-texto-g__texto.p-4
         h5 Referencia normativa fundamental #[br] #[br]
-        p.mb-0 La Ley 99 de 1993 define en su artículo 1. ° los fundamentos de la política ambiental colombiana, entre ellos el principio de precaución, que obliga a adoptar medidas protectoras ante la amenaza de daño grave al medio ambiente, incluso sin certeza científica absoluta. Este principio es aplicable al uso de sustancias químicas en los procesos de tinción y acabado de prendas.
+        p.mb-0 La Ley 99 de 1993 define en su artículo 1.º los fundamentos de la política ambiental colombiana, entre ellos el principio de precaución, que obliga a adoptar medidas protectoras ante la amenaza de daño grave al medio ambiente, incluso sin certeza científica absoluta. Este principio es aplicable al uso de sustancias químicas en los procesos de tinción y acabado de prendas. 
 
     .row.justify-content-center.mb-5(data-aos='fade')
       .col-lg-10

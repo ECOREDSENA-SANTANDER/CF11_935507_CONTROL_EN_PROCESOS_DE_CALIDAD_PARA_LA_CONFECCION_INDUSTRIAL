@@ -56,7 +56,7 @@
               td Aprovechar los subproductos o materiales residuales del proceso dentro de la misma planta antes de recurrir a su gestión externa.
               td Uso de retales de tela para elaborar prototipos de costura, refuerzos internos de prendas o muestras para controles de calidad.
             tr
-              td Buenas prácticas de manufactura (BPM)
+              td Buenas Prácticas de Manufactura (BPM)
               td Implementar procedimientos operativos estandarizados que permitan prevenir pérdidas de materiales, desperdicios y contaminación durante las operaciones.
               td Realización de mantenimiento preventivo de las máquinas para evitar fugas de aceite lubricante sobre las telas en proceso.
             tr
@@ -116,7 +116,7 @@
               td Telas con recubrimientos retardantes de llama o tratamientos antimicrobianos que requieren análisis previo a su disposición.
               td Evaluación de sus características y composición para determinar el manejo, aprovechamiento, tratamiento o disposición adecuado.
             tr
-              td Residuos de aparatos eléctricos y electrónicos (RAEE)
+              td Residuos de Aparatos Electricos y Electrónicos (RAEE)
               td Computadores, monitores, impresoras, equipos de corte, máquinas electrónicas y otros equipos eléctricos o electrónicos fuera de uso.
               td Almacenamiento separado y entrega a programas o gestores autorizados para su aprovechamiento, tratamiento o disposición.
             tr

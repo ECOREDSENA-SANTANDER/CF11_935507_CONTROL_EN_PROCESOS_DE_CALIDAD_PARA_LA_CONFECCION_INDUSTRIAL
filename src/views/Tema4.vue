@@ -17,7 +17,7 @@
 
     Separador
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 4.1 Indicadores de impacto ambiental y ciclo de vida del producto (LCA)
+      h2 4.1 Indicadores de impacto ambiental y ciclo de vida del producto (#[em LCA])
 
     .row.justify-content-center.mb-5
       .col-lg-1.col-md-2.d-none.d-md-block(data-aos="fade-right")
@@ -73,7 +73,7 @@
       .col-lg-6.d-none.d-lg-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t4/3.png', alt='')
       .col-lg-6(data-aos="fade-left")
-        p.mb-0 El Análisis de Ciclo de Vida (ACV; #[em Life Cycle Assessment], LCA, en inglés) es una metodología estandarizada en las normas ISO 14040:2006, Gestión ambiental. Análisis del ciclo de vida. Principios y marco de referencia, e ISO 14044:2006, Gestión ambiental. Análisis del ciclo de vida. Requisitos y directrices. Esta metodología permite evaluar los impactos ambientales potenciales asociados a un producto a lo largo de todas las etapas de su ciclo de vida, desde la extracción de materias primas, pasando por la manufactura y distribución, hasta su uso y disposición final.
+        p.mb-0 El Análisis de Ciclo de Vida (ACV; #[em Life Cycle Assessment], #[em LCA], en inglés) es una metodología estandarizada en las normas ISO 14040:2006, Gestión ambiental. Análisis del ciclo de vida. Principios y marco de referencia, e ISO 14044:2006, Gestión ambiental. Análisis del ciclo de vida. Requisitos y directrices. Esta metodología permite evaluar los impactos ambientales potenciales asociados a un producto a lo largo de todas las etapas de su ciclo de vida, desde la extracción de materias primas, pasando por la manufactura y distribución, hasta su uso y disposición final.
 
     .subt.mb-4(data-aos="fade-right")
       img(src='@/assets/curso/temas/t4/subt.svg', alt='')
@@ -93,13 +93,13 @@
                   img(src='@/assets/curso/temas/t4/slider1-1.png', alt='')
               .row.justify-content-center.mb-4
                 .col-md-6.col-lg-3.col-11
-                  h4 Inventario del ciclo de vida (ICV)
+                  h4 Inventario del Ciclo de Vida (ICV)
                   p Cuantifica las entradas y salidas de cada etapa, como materias primas, agua, energía, productos, subproductos, residuos y emisiones. Ejemplo: registrar el consumo de algodón, agua y energía, así como los residuos textiles generados durante la fabricación.
                 .col-md-5.col-lg-7.col-11
                   img(src='@/assets/curso/temas/t4/slider1-2.png', alt='')
               .row.justify-content-center.mb-4
                 .col-md-6.col-lg-3.col-11
-                  h4 Evaluación del impacto del ciclo de vida (EICV)
+                  h4 Evaluación del Impacto del Ciclo de Vida (EICV)
                   p Traduce los datos del inventario en categorías de impacto ambiental, como cambio climático, consumo de agua, toxicidad humana y eutrofización. Ejemplo: evaluar los impactos asociados al consumo de agua y energía y a las emisiones generadas durante la producción.
                 .col-md-5.col-lg-7.col-11
                   img(src='@/assets/curso/temas/t4/slider1-3.png', alt='')
@@ -178,7 +178,7 @@
               img(src='@/assets/curso/temas/t4/tarj1-3.svg', alt='')
           p.mb-0 La optimización de los procesos logísticos para disminuir el transporte de materiales.
 
-    p Explore el podcast Dato sobre la elaboración de un pantalón de denim y descubra datos interesantes sobre las etapas, materiales y procesos que intervienen en la confección de esta prenda.
+    p Explore el pódcast "Dato sobre la elaboración de un pantalón de denim" y descubra datos interesantes sobre las etapas, materiales y procesos que intervienen en la confección de esta prenda.
 
     .bg-color-3(data-aos='fade')
       img(src='@/assets/curso/temas/t4/podcast.svg', alt='')

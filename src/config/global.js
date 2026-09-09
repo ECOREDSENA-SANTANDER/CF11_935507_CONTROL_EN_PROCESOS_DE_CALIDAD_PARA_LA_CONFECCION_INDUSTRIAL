@@ -99,7 +99,7 @@ export default {
           {
             numero: '4.1',
             titulo:
-              'Indicadores de impacto ambiental y ciclo de vida del producto (LCA)',
+              'Indicadores de impacto ambiental y ciclo de vida del producto (<em>LCA</em>)',
             hash: 't_4_1',
           },
           {
@@ -182,7 +182,7 @@ export default {
         'elemento de las actividades, productos o servicios de una organización que puede interactuar con el medio ambiente y generar efectos favorables o adversos.',
     },
     {
-      termino: 'Bluesign',
+      termino: '<em>Bluesign</em>',
       significado:
         'sistema de certificación para la industria textil que verifica el uso responsable de recursos, la gestión segura de sustancias químicas y la reducción de contaminantes durante los procesos productivos.',
     },
@@ -202,7 +202,7 @@ export default {
         'modelo productivo que busca mantener los productos y materiales en uso durante el mayor tiempo posible, mediante su reutilización, recuperación, reparación y reincorporación al ciclo productivo.',
     },
     {
-      termino: 'GOTS (<em>Global Organic Textile Standard</em>)',
+      termino: '<em>GOTS</em> (<em>Global Organic Textile Standard</em>)',
       significado:
         'estándar internacional que certifica productos textiles elaborados con fibras orgánicas y establece criterios ambientales y sociales para la cadena de suministro.',
     },
@@ -259,11 +259,11 @@ export default {
       link: '',
     },
     {
-      referencia: 'Better Trail. (2025). Bluesign explicado.',
+      referencia: 'Better Trail. (2025a). Bluesign explicado.',
       link: '',
     },
     {
-      referencia: 'Better Trail. (2025). ¿Qué tan sostenible es Patagonia?.',
+      referencia: 'Better Trail. (2025b). ¿Qué tan sostenible es Patagonia?.',
       link: '',
     },
     {
@@ -415,12 +415,12 @@ export default {
     },
     {
       referencia:
-        'Selfless Clothes. (s. f.). Pact: Informe de marca, sostenibilidad y ética.',
+        'Selfless Clothes. (s. f.-a). Pact: Informe de marca, sostenibilidad y ética.',
       link: '',
     },
     {
       referencia:
-        'Selfless Clothes. (s. f.). Patagonia: Informe de marca, sostenibilidad y ética.',
+        'Selfless Clothes. (s. f.-b). Patagonia: Informe de marca, sostenibilidad y ética.',
       link: '',
     },
     {
@@ -485,7 +485,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },

@@ -146,8 +146,11 @@
 
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-12
+        .titulo-sexto.color-secundario.mb-3
+          h5 Figura 13. 
+          span Estrategias de moda circular
         figure
-          img(src='@/assets/curso/temas/t5/infog.svg', alt='')
+          img(src='@/assets/curso/temas/t5/infog.svg', alt='Infografía sobre estrategias de moda circular: reparación, alquiler, reciclaje y reutilización de prendas para prolongar su vida útil.')
 
 
     Separador

@@ -29,7 +29,7 @@
         img.w-85x.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t2/3.svg', alt='')
         p.mb-0 La norma específica los requisitos para que una organización establezca, implemente, mantenga y mejore continuamente un sistema de gestión ambiental (SGA), con el fin de mejorar su desempeño ambiental y gestionar sus obligaciones de cumplimiento.
 
-    p.mb-4 La estructura de ISO 14001:2015 sigue el modelo de alto nivel #[em High Level Structure] (HLS), el cual aporta dos ventajas concretas para las empresas de confección:
+    p.mb-4 La estructura de ISO 14001:2015 sigue el modelo de alto nivel #[em High Level Structure] (#[em HLS]), el cual aporta dos ventajas concretas para las empresas de confección:
 
     .row.justify-content-center.mb-4(data-aos='fade')
       .col-lg-10
@@ -111,12 +111,12 @@
             .col-md-12
               p Desarrollado por la asociación OEKO-TEX® (con sede en Zúrich, Suiza, y Viena, Austria), este sistema certifica que cada componente de un artículo textil (fibras, hilos, telas, botones, cremalleras, etiquetas y acabados) ha sido sometido a pruebas de laboratorio acreditadas para verificar la ausencia de sustancias nocivas para la salud humana, entre ellas, metales pesados, pesticidas, formaldehído y colorantes cancerígenos.
               p La certificación se otorga por producto y requiere una renovación anual.
-          .row(titulo="B. GOTS (Global Organic Textile Standard): trazabilidad orgánica integral")
+          .row(titulo="B. <em>GOTS</em> (Global Organic Textile Standard): trazabilidad orgánica integral")
             .col-md-12
               p Administrado por Global Standard gGmbH (Fráncfort del Meno, Alemania), el estándar GOTS exige que al menos el 70 % de las fibras del producto sean de origen orgánico certificado; en la categoría superior, este porcentaje asciende al 95 %.
               p Adicionalmente, establece criterios ambientales para todos los eslabones de la cadena de producción, como el tratamiento de aguas residuales y la restricción del uso de insumos químicos peligrosos, así como criterios sociales que incluyen salarios justos y la prohibición del trabajo infantil y del trabajo forzado.
               p Asimismo, contempla la trazabilidad documental desde el cultivo de la fibra hasta la prenda terminada, siendo este uno de los elementos centrales del sistema.
-          .row(titulo="C. bluesign® (Eficiencia de recursos y seguridad química en la fabricación)")
+          .row(titulo="C. <em>Bluesign®</em> (Eficiencia de recursos y seguridad química en la fabricación)")
             .col-md-12
               p Desarrollado por Bluesign Technologies Ag (Baar, Suiza), este sistema se diferencia de los anteriores por su enfoque en los procesos de fabricación y en la gestión de los insumos, en lugar de limitarse al análisis del producto terminado. El sistema evalúa aspectos relacionados con la seguridad química, el uso eficiente de recursos, el control de emisiones y residuos, la salud y seguridad ocupacional y la responsabilidad social.
               p Bluesign evalúa el uso responsable de recursos como el agua y la energía, el control de sustancias químicas, el tratamiento de aguas residuales y otras emisiones, así como las condiciones de seguridad de los trabajadores. Su enfoque busca prevenir los impactos desde el origen mediante el control de los insumos y la evaluación de los procesos productivos.
@@ -160,7 +160,7 @@
               .row.justify-content-center
                 .col-md-5.col-lg-5.col-11
                   h4 EILEEN FISHER (Estados Unidos)
-                  p Desarrolla iniciativas de moda circular desde hace más de una década. Su programa Renew, creado en 2009, permite recolectar prendas usadas para repararlas, revenderlas, donarlas o transformarlas, prolongando así su vida útil. La empresa también ha trabajado con materiales y procesos respaldados por certificaciones como GOTS, OEKO-TEX® y bluesign® en productos y líneas seleccionadas.
+                  p Desarrolla iniciativas de moda circular desde hace más de una década. Su programa #[em Renew], creado en 2009, permite recolectar prendas usadas para repararlas, revenderlas, donarlas o transformarlas, prolongando así su vida útil. La empresa también ha trabajado con materiales y procesos respaldados por certificaciones como GOTS, OEKO-TEX® y bluesign® en productos y líneas seleccionadas.
                 .col-md-6.col-lg-5.col-11
                   .titulo-sexto.color-secundario.mb-3
                     h5 Figura 7. 
