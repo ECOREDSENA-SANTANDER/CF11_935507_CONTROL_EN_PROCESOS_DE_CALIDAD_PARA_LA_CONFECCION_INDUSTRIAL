@@ -186,7 +186,7 @@
         .tarjeta.bg-white.p-4
           TarjetaAudio.color-acento-botones(
           texto="Dato sobre la elaboración de un pantalón de <em>denim</em>"
-          :audio="require_src('@/assets/actividad/audio/success.mp3')")
+          :audio="require_src('@/assets/curso/temas/t4/CF11_935507_podcast.mp3')")
           .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 
 
