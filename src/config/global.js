@@ -66,7 +66,7 @@ export default {
           {
             numero: '2.2',
             titulo:
-              'Sellos verdes y certificaciones ambientales: OEKO-TEX, GOTS y Bluesign',
+              'Sellos verdes y certificaciones ambientales: OEKO-TEX, <em>GOTS</em> y <em>Bluesign</em>',
             hash: 't_2_2',
           },
         ],

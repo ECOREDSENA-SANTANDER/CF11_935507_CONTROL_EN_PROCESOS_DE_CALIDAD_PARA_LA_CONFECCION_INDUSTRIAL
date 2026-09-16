@@ -89,7 +89,7 @@
 
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.2 Sellos verdes y certificaciones ambientales: OEKO-TEX, GOTS y Bluesign
+      h2 2.2 Sellos verdes y certificaciones ambientales: OEKO-TEX, #[em GOTS] y #[em Bluesign]
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
       .col-lg-2.d-none.d-lg-block
@@ -111,15 +111,15 @@
             .col-md-12
               p Desarrollado por la asociación OEKO-TEX® (con sede en Zúrich, Suiza, y Viena, Austria), este sistema certifica que cada componente de un artículo textil (fibras, hilos, telas, botones, cremalleras, etiquetas y acabados) ha sido sometido a pruebas de laboratorio acreditadas para verificar la ausencia de sustancias nocivas para la salud humana, entre ellas, metales pesados, pesticidas, formaldehído y colorantes cancerígenos.
               p La certificación se otorga por producto y requiere una renovación anual.
-          .row(titulo="B. <em>GOTS</em> (Global Organic Textile Standard): trazabilidad orgánica integral")
+          .row(titulo="B. <em>GOTS</em> (<em>Global Organic Textile Standard</em>): trazabilidad orgánica integral")
             .col-md-12
-              p Administrado por Global Standard gGmbH (Fráncfort del Meno, Alemania), el estándar GOTS exige que al menos el 70 % de las fibras del producto sean de origen orgánico certificado; en la categoría superior, este porcentaje asciende al 95 %.
+              p Administrado por Global Standard gGmbH (Fráncfort del Meno, Alemania), el estándar #[em GOTS] exige que al menos el 70 % de las fibras del producto sean de origen orgánico certificado; en la categoría superior, este porcentaje asciende al 95 %.
               p Adicionalmente, establece criterios ambientales para todos los eslabones de la cadena de producción, como el tratamiento de aguas residuales y la restricción del uso de insumos químicos peligrosos, así como criterios sociales que incluyen salarios justos y la prohibición del trabajo infantil y del trabajo forzado.
               p Asimismo, contempla la trazabilidad documental desde el cultivo de la fibra hasta la prenda terminada, siendo este uno de los elementos centrales del sistema.
           .row(titulo="C. <em>Bluesign®</em> (Eficiencia de recursos y seguridad química en la fabricación)")
             .col-md-12
-              p Desarrollado por Bluesign Technologies Ag (Baar, Suiza), este sistema se diferencia de los anteriores por su enfoque en los procesos de fabricación y en la gestión de los insumos, en lugar de limitarse al análisis del producto terminado. El sistema evalúa aspectos relacionados con la seguridad química, el uso eficiente de recursos, el control de emisiones y residuos, la salud y seguridad ocupacional y la responsabilidad social.
-              p Bluesign evalúa el uso responsable de recursos como el agua y la energía, el control de sustancias químicas, el tratamiento de aguas residuales y otras emisiones, así como las condiciones de seguridad de los trabajadores. Su enfoque busca prevenir los impactos desde el origen mediante el control de los insumos y la evaluación de los procesos productivos.
+              p Desarrollado por #[em Bluesign] Technologies Ag (Baar, Suiza), este sistema se diferencia de los anteriores por su enfoque en los procesos de fabricación y en la gestión de los insumos, en lugar de limitarse al análisis del producto terminado. El sistema evalúa aspectos relacionados con la seguridad química, el uso eficiente de recursos, el control de emisiones y residuos, la salud y seguridad ocupacional y la responsabilidad social.
+              p #[em Bluesign] evalúa el uso responsable de recursos como el agua y la energía, el control de sustancias químicas, el tratamiento de aguas residuales y otras emisiones, así como las condiciones de seguridad de los trabajadores. Su enfoque busca prevenir los impactos desde el origen mediante el control de los insumos y la evaluación de los procesos productivos.
       .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/t2/6.svg', alt='')
 
@@ -129,7 +129,7 @@
       .col-lg-7(data-aos="fade-left")
         p.mb-1 En el sector de la confección, la aplicación de estos sistemas de certificación puede contribuir al fortalecimiento de los procesos de control de calidad y gestión ambiental, especialmente en actividades como la selección y gestión de productos químicos, la optimización del consumo de agua y energía y el tratamiento de aguas residuales.
         p En Colombia, algunas empresas del sector textil cuentan con certificaciones internacionales. Por ejemplo, Lafayette declara contar con la certificación OEKO-TEX® STANDARD 100 para sus productos textiles.
-        p Esta situación contrasta con el panorama internacional, donde diversas marcas han incorporado sistemas de certificación y evaluación ambiental y de seguridad química como parte de sus estrategias de sostenibilidad. En el caso de bluesign, la denominación bluepass es el nuevo sello de certificación que sustituye progresivamente las denominaciones anteriores bluesign® PRODUCT y bluesign® APPROVED.
+        p Esta situación contrasta con el panorama internacional, donde diversas marcas han incorporado sistemas de certificación y evaluación ambiental y de seguridad química como parte de sus estrategias de sostenibilidad. En el caso de #[em Bluesign], la denominación bluepass es el nuevo sello de certificación que sustituye progresivamente las denominaciones anteriores #[em Bluesign]® PRODUCT y #[em Bluesign]® APPROVED.
 
     .row.bgimg-1.align-items-center.p-4.p-lg-5.mb-4(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-4
@@ -140,7 +140,7 @@
               .row.justify-content-center
                 .col-md-5.col-lg-5.col-11
                   h4 Patagonia (Estados Unidos)
-                  p Trabaja con bluesign desde 2000 y utiliza materiales evaluados bajo este sistema, con el propósito de gestionar los impactos ambientales y químicos de su cadena de suministro.
+                  p Trabaja con #[em Bluesign] desde 2000 y utiliza materiales evaluados bajo este sistema, con el propósito de gestionar los impactos ambientales y químicos de su cadena de suministro.
                 .col-md-6.col-lg-5.col-11
                   .titulo-sexto.color-secundario.mb-3
                     h5 Figura 5. 
@@ -150,7 +150,7 @@
               .row.justify-content-center
                 .col-md-5.col-lg-5.col-11
                   h4 Pact (Estados Unidos)
-                  p Cuenta con productos certificados bajo GOTS y utiliza algodón orgánico certificado. Además, trabaja con fábricas con certificación Fair Trade, que incorporan criterios relacionados con condiciones laborales seguras, salarios justos y protección de los trabajadores.
+                  p Cuenta con productos certificados bajo #[em GOTS] y utiliza algodón orgánico certificado. Además, trabaja con fábricas con certificación Fair Trade, que incorporan criterios relacionados con condiciones laborales seguras, salarios justos y protección de los trabajadores.
                 .col-md-6.col-lg-5.col-11
                   .titulo-sexto.color-secundario.mb-3
                     h5 Figura 6. 
@@ -160,7 +160,7 @@
               .row.justify-content-center
                 .col-md-5.col-lg-5.col-11
                   h4 EILEEN FISHER (Estados Unidos)
-                  p Desarrolla iniciativas de moda circular desde hace más de una década. Su programa #[em Renew], creado en 2009, permite recolectar prendas usadas para repararlas, revenderlas, donarlas o transformarlas, prolongando así su vida útil. La empresa también ha trabajado con materiales y procesos respaldados por certificaciones como GOTS, OEKO-TEX® y bluesign® en productos y líneas seleccionadas.
+                  p Desarrolla iniciativas de moda circular desde hace más de una década. Su programa #[em Renew], creado en 2009, permite recolectar prendas usadas para repararlas, revenderlas, donarlas o transformarlas, prolongando así su vida útil. La empresa también ha trabajado con materiales y procesos respaldados por certificaciones como #[em GOTS], OEKO-TEX® y #[em Bluesign]® en productos y líneas seleccionadas.
                 .col-md-6.col-lg-5.col-11
                   .titulo-sexto.color-secundario.mb-3
                     h5 Figura 7. 

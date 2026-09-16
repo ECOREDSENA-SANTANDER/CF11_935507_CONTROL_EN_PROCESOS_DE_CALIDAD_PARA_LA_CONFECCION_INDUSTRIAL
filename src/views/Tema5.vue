@@ -108,7 +108,7 @@
           tbody
             tr
               td #[b Extracción de materias primas:] obtención de fibras naturales o producción de fibras sintéticas a partir de recursos fósiles.
-              td #[b Selección de materias primas sostenibles:] uso de fibras recicladas posconsumo, como rPET y algodón reciclado, o fibras de origen renovable con certificaciones reconocidas, como GOTS y FSC para fibras de celulosa.
+              td #[b Selección de materias primas sostenibles:] uso de fibras recicladas posconsumo, como rPET y algodón reciclado, o fibras de origen renovable con certificaciones reconocidas, como #[em GOTS] y FSC para fibras de celulosa.
             tr
               td #[b Producción:] fabricación de prendas con generación de retales y subproductos que no son aprovechados.
               td #[b Producción eficiente:] optimización del trazado mediante #[em software] CAD/CAM, reducción de desperdicios y reutilización de retales en el mismo proceso o en cadenas de valor complementarias.
