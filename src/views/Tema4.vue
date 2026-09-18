@@ -40,22 +40,22 @@
           tbody.fc
             tr
               td Consumo de agua por unidad producida
-              td Litros / prenda.
+              td Litros/prenda.
               td Lavado, tinción y acabados húmedos.
               td Diaria.
             tr
               td Consumo de energía por turno
-              td kWh / turno productivo.
+              td kWh/turno productivo.
               td Operación total de la planta.
               td Por turno.
             tr
               td Generación de residuos sólidos
-              td kg de residuos / kg de tela procesada.
+              td kg de residuos/kg de tela procesada.
               td Corte y confección.
               td Semanal.
             tr
               td Residuos peligrosos generados
-              td kg / mes.
+              td kg/mes.
               td Mantenimiento e insumos químicos.
               td Mensual.
             tr
@@ -65,7 +65,7 @@
               td Por orden de producción.
             tr
               td Emisiones de CO₂ equivalente (estimadas)
-              td kg CO₂e / unidad producida.
+              td kg CO₂e/unidad producida.
               td Toda la cadena productiva de la planta.
               td Mensual o trimestral.
 
